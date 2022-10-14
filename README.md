@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">A passionate frontend developer from Taiwan.<br/>In the face of problems, I believe I can come up with solutions, not willing to admit defeat, not willing to stop thinking.</h3>
+<h3 align="center">A passionate frontend developer from Taiwan.<br/>In the face of problems, I believe I can come up with solutions,<br/> not willing to admit defeat, not willing to stop thinking.</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vZtT576YHTfBvb2m076XGWs8eWo63u9x/view?usp=sharing](https://drive.google.com/file/d/1vZtT576YHTfBvb2m076XGWs8eWo63u9x/view?usp=sharing)
 
